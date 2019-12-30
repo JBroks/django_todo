@@ -1,2 +1,2 @@
-/.c9/
-django_todo/__pycache__/settings.cpython-36.pyc
+*.c9/
+/django_todo/__pycache__/

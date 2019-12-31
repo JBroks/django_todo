@@ -26,7 +26,7 @@ SECRET_KEY = '%4v39bda@_d^bv#+fw)oakd=8pwarhz#2v^6y@@ks3(n5z&suc'
 DEBUG = True
 
 ALLOWED_HOSTS = ['72b56da57d3342a08e265a3b64aa271d.vfs.cloud9.us-east-1.amazonaws.com',
-                 'https://my-django-todo.herokuapp.com']
+                 'my-django-todo.herokuapp.com']
 
 
 # Application definition
